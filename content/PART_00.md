@@ -6,7 +6,7 @@ During the past months I started evaluating different frameworks to manage machi
 
 I decided to dive right in with a tutorial which tackles different aspects important to evaluate the suitability of the framework. 
 
-You can find the code on our [GitHub](!link) and follow along.
+You can find the code on our [GitHub](!https://github.com/hzdr/dvc_tutorial_series) and follow along.
 
 I also decided to share my general approach on how to tackle this kind of task and why the tutorial is designed the way it is - if you are only interested in the code, feel free to jump right to the section **DVC TUTORIAL**
 
