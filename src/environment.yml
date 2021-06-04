@@ -1,0 +1,12 @@
+name: dvc-tutorial-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - ipython
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
