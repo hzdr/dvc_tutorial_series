@@ -1,6 +1,9 @@
-This is the code-part of the mini-series I publish on medium [here](!https://nsultova.medium.com/exploring-dvc-for-machine-learning-pipelines-in-research-part-1-3ebc2ca35a18) 
+This is the codepart of the article series I published on medium [here](https://nsultova.medium.com/exploring-dvc-for-machine-learning-pipelines-in-research-part-1-3ebc2ca35a18) 
 
-This repository contains tutorials + code which I created based on my explorations of [DVC](!https://dvc.org)
+
+During the past months part of my job became looking at different tools to manage machine learning workflows for our team at HelmholtzAI. A lot of material accumulated on the way, thus I decided to share some of the process and what I’ve learned.
+
+This repository contains tutorials and code centered around [DVC](https://dvc.org) which became one of our favourite candidates.
 
 
 ### Code structure
