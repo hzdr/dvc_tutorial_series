@@ -1,4 +1,4 @@
-This is the code-part of the mini-series I published [here](!) (Yet to be published officially) 
+This is the code-part of the mini-series I publish on medium [here](!https://nsultova.medium.com/exploring-dvc-for-machine-learning-pipelines-in-research-part-1-3ebc2ca35a18) 
 
 This repository contains tutorials + code which I created based on my explorations of [DVC](!https://dvc.org)
 
