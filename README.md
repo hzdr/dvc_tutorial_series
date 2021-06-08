@@ -39,9 +39,10 @@ This repository contains tutorials and code centered around [DVC](https://dvc.or
 
 ### Setup
 
-Make sure you have some recent python version installed. (I run Python 3.9.1 within an conda environment on an OSX (add version) as of this writing). 
-I'd highly recommend to use any flavour of virtual environments (conda, venv, ..(except you're a *-BSD or NixOS user ^^ )). 
+Make sure you have some recent python version installed. (I run Python 3.9.1 within an conda environment on an macOS Big Sur 11.4 as of this writing). 
+
+I'd highly recommend to use any flavour of virtual environments (conda, venv, ..) for following along with this tutorial. (Except you're a *-BSD or NixOS user, in thus case I assume you know your way around these issues anyway ^^ ). 
 
 Clone the repo, make sure the dependencies are installed and you're good to go!
 
-Look into `/content/PART_00`, section **DVC Tutorial** for more information.
+Look into `/content/PART_01`, section **DVC Tutorial** for more information.
